@@ -25,11 +25,11 @@ public class BotConfig {
     public static final String RAE_TOKEN = "";
     public static final String RAE_USER = "raebot";
 
-    public static final String WEBHOOK_TOKEN = "";
+    public static final String WEBHOOK_TOKEN = "6950305437:AAG-pfc0taK7W7ynXt66JgaT43PJ1boV2KE";
     public static final String WEBHOOK_USER = "webhooksamplebot";
 
     public static final String COMMANDS_TOKEN = "6950305437:AAG-pfc0taK7W7ynXt66JgaT43PJ1boV2KE";
-    public static final String COMMANDS_USER = "MyCommandsBot";
+    public static final String COMMANDS_USER = "xiaok168Bot";
     
     public static final String ELEKTROLLART_TOKEN = "";
     public static final String ELEKTROLLART_USER = "ElektrollArtFanBot";
